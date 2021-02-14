@@ -32,7 +32,8 @@
         {
             "fontFace": "Consolas",
             "cursorShape": "filledBox",
-	    "colorScheme": "Tango Dark"
+            "colorScheme": "Tango Dark",
+            "bellStyle": "none"   //This works, however, vim highlight this word strangely
             // To stop blinking the cursor, change the system-wide configuration.
             // https://github.com/microsoft/terminal/issues/1379
         },
